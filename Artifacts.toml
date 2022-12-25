@@ -1,0 +1,288 @@
+[[PMC]]
+arch = "aarch64"
+git-tree-sha1 = "54445451eca622c2a0c2e9a92865f99e6f45517d"
+os = "macos"
+
+    [[PMC.download]]
+    sha256 = "e31aedb0e9b1a564725825a6530f95622fc2b594cf65ff4ea69acaae381589f9"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.aarch64-apple-darwin.tar.gz"
+[[PMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "032b0d971ddd023ba29d1aa7f4c21b712ba95b32"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "e21a1c6434b5b7b49f7ce89b535b356b471644049673b722c4588436c5a14ad2"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[PMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0977438e4445e24f92042188814f236556b22393"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "90c92e629c935cf9ecc562f27dea446dacc6ed6a2f194526e13ba0bff57fdcac"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[PMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e0d3da179a32faab14c47c3c091457425e4ef0e"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "9b0c5a224d18bdb6a6207c8c1e41de3a3e703e8d0991b2aef8600ce45311dbf6"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.aarch64-linux-musl-cxx03.tar.gz"
+[[PMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87865f6e8fa9649b77ea7dac0e5c74e6b83350d6"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "7da95a8479a72ce0edbec5117ec7ec99bd6abec355e1454ae0179a326e0c150d"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.aarch64-linux-musl-cxx11.tar.gz"
+[[PMC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e1e54575bc730efb071a39218526c46ab3309ad4"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "4936cf8d6fef95b9ddb0d1c0d351b0a57b42db55319205dc9aaa60a5ed38a09d"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[PMC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8738d73f515e1c27dfd8e525d06b28532068144"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "4fa628846e2d24f8b09bc182d9cb2e463dc595227b3d7a0c3135923f2de6a078"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[PMC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f22eb29fa8427013713d2a8ccc00d8c3094449e"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "8de44baa2c83c5327d861a5bca2fafcebaf7ae39823c8adfebcc38941a20776c"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[PMC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53fde456038a3cd89d55beec94ec07b7524d79c0"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "c544063d75fc9f3caea8c293e692638710cf22a471267d051741d907c4909442"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[PMC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a915ee109168f3a335bc148ccd474373834244a6"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "f07bc2d5c6a0f60d64383fb6e817fc1bf6632198c8db80d3da0d97ada6c64b0a"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[PMC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f1d589d5dc35c7701d12eb69dd9355edfd8badc"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "66d910c6c6385f66af2ed2f3d86ef323d3bfe178caa9c4a31ac01896f7572d14"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[PMC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "40bf417637e42d0f244795b3a90d57a983054008"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "0b31d0e951a3a338765e8ec7d5a36212bab92ce0532989cade8dec129ba99ba4"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[PMC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b181c5c52f6c801c233ca81bba1faf1da024c8f"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "beac41e3ca001db0e212655eaea864c1e0853416007ada36851ef6e1f83c732e"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0fb4e56bf6c3a116b76617f12cff546cd3686bf"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "f363281b4ad8a048a2314a3cab73b4038152b1f141c8a84290abbb03fc952dc9"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-linux-gnu-cxx03.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e736918d7de4659b53a67e8753f03eda5cc27be4"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "7c27ef7ce6ee4f6b5f215b77fff065f3c7620ee77cfd1ed719fb2d8888de96b8"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-linux-gnu-cxx11.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3513afa7b8620660b576d9c464e86cd04298229"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "8fb9a4f7175fc943b851ce04bd2a05523eff8dd276370036a67ea6911ec76a41"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-linux-musl-cxx03.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2a5b053e7b351ba5b851095265eaffbc1e47f68"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "9b3aaba258e6f005e4d4e5375eb5445afd7fad1f1ea62eee0b5924a782852abb"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-linux-musl-cxx11.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d6f6071ae63fcc69b90a331e526470205447307"
+os = "windows"
+
+    [[PMC.download]]
+    sha256 = "32c796b024f2b9d23ded3697f56d4bb630389d46f14e233b012c82b2e12dee2d"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-w64-mingw32-cxx03.tar.gz"
+[[PMC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f24fecf75a2e41d0e60cf0d0007f365ac98c1620"
+os = "windows"
+
+    [[PMC.download]]
+    sha256 = "b45760e59ac23cbec06c3e3a632ed54f85f1d693fe2f2c2f85859a6c35bab02c"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.i686-w64-mingw32-cxx11.tar.gz"
+[[PMC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "726ce56c86c12413786a020c1ee5981da9d8c30c"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "5df8d57be0c3053c284656ee979975f8f1a3971ce83ecb6babf45cbae10319db"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[PMC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "479110d4de6ad58db6827a383488ec536080df93"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "f15fc221aac1b37ac5d11d054cbd3f8572f96b56230ebeeff832733d4e8d365d"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[PMC]]
+arch = "x86_64"
+git-tree-sha1 = "36efd9287c43b7f7e6e968736147264b4c2bfaf0"
+os = "macos"
+
+    [[PMC.download]]
+    sha256 = "e9e703927c25355301929609834ce0bfd56acdb51d2a75fb74130df9d9ce35e3"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-apple-darwin.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6b56c6edd914b6501526d595e6905e7cab51008"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "877a37424cd507fabed3fb015cf802a9970aec4256639927f468334d433234ad"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d44ccaa752487f80240cdf5f8cc669ef488c2364"
+libc = "glibc"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "bd70ca4a894429e9d81d99aa2b8117a15878dfe439447e5aada9d9ce082b0f47"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a5d3414ea9431e6208142779f8642195ddac4d4"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "f474f03eecbfc5481ad2f139beba2b69212e20a8f39d8374f83af5bd9430fe6e"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-linux-musl-cxx03.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c400c9550a08db09e2be8b65819ae994838e30f5"
+libc = "musl"
+os = "linux"
+
+    [[PMC.download]]
+    sha256 = "5f5ae611f51f08a2a1827de35ef2a2944cb5acca26b7f889f6e7bdcede9da6b8"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-linux-musl-cxx11.tar.gz"
+[[PMC]]
+arch = "x86_64"
+git-tree-sha1 = "8e5ff096232612941cc9cbba1b1c1352a5ccedbd"
+os = "freebsd"
+
+    [[PMC.download]]
+    sha256 = "3ac4f9545c81bd852d69a19535153e8e13272178e735b6b08fef243721d8a3ab"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f32ce735a6b91424317474121ecd561fb11d6db"
+os = "windows"
+
+    [[PMC.download]]
+    sha256 = "66f97c508ecbd2fd1799819a9a43d88890b7b2f1a6056a16589c23af62c59f6c"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[PMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56bb3aa391bbd3dee1f014fde21f4c9c9a481b2c"
+os = "windows"
+
+    [[PMC.download]]
+    sha256 = "6b66a86ff690981b0b3d6162f0a3d2dc07e2f517e59e1aab6760d6d4b5c5b880"
+    url = "https://github.com/JuliaBinaryWrappers/PMC_jll.jl/releases/download/PMC-v0.1.1+0/PMC.v0.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
